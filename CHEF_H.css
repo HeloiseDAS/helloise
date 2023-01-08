@@ -1,0 +1,60 @@
+ 
+
+  body{background: #ffe8ea;}
+
+ .topic{
+    color: #C1675B;
+    font-family: Comic Sans MS;
+    font-size: 37px;
+}
+.navv{
+    color: #FAD6D6;
+    background-color:#C1675B;
+    font-family: 微軟雅黑;
+    font-size: 20px;
+    margin: 6px;
+    padding: 5px;
+}
+
+a{text-decoration:none;}
+a:link{
+    color: #FAD6D6;
+}
+a:visited {
+color:#FAD6D6;
+background-color:red;
+}
+a:hover {
+text-decoration:underline;
+background-color:#fafafa;
+color:#FAD6D6;
+}
+a:active {
+text-decoration:none;
+background-color:gray;
+color:#FAD6D6;
+}
+
+.toast {
+    color: #251517;
+    background-color:#EB9A90;
+    font-family: 微軟雅黑;
+    font-weight:bolder ;
+    font-size: 28px;
+
+    padding: 9px;
+
+}
+
+.ball {
+    color: #251517;
+    background-color:#EB9A90;
+    font-family: 微軟雅黑;
+    font-weight:bolder ;
+    font-size: 28px;
+
+    padding: 9px;
+
+}
+
+
